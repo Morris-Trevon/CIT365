@@ -1,0 +1,11 @@
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\bin\Debug\netcoreapp2.1\BYUI Window Size.deps.json
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\bin\Debug\netcoreapp2.1\BYUI Window Size.runtimeconfig.json
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\bin\Debug\netcoreapp2.1\BYUI Window Size.runtimeconfig.dev.json
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\bin\Debug\netcoreapp2.1\BYUI Window Size.dll
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\bin\Debug\netcoreapp2.1\BYUI Window Size.pdb
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.csprojAssemblyReference.cache
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.csproj.CoreCompileInputs.cache
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.AssemblyInfoInputs.cache
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.AssemblyInfo.cs
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.dll
+C:\Users\tlove\source\repos\BYUI Window Size\BYUI Window Size\obj\Debug\netcoreapp2.1\BYUI Window Size.pdb
